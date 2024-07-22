@@ -3,10 +3,10 @@ This project aims to develop a machine learning model that can accurately predic
 
 # Table of Contents
 -[ Introduction](#Introduction)
--[ Data Preprocessing](# Data Preprocessing)
--[ Exploratory Data Analysis] (#Exploratory Data Analysis)
--[ Model Development] (# Model Development)
--[ Usage](# Usage)
+-[ Data Preprocessing](#DataPreprocessing)
+-[ Exploratory Data Analysis](#ExploratoryDataAnalysis)
+-[ Model Development](#ModelDevelopment)
+-[ Usage](#Usage)
 
 # Introduction
 Provide a brief introduction to the project, explaining the motivation behind developing a calorie calculator model and the potential benefits it can offer.
